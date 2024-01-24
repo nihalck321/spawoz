@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spawoz/static/css/main.56b042f3.css",
+    "main.js": "/spawoz/static/js/main.3614a3bd.js",
+    "static/media/banner.jpg": "/spawoz/static/media/banner.ec156b2b57c216a2c31d.jpg",
+    "static/media/sp-logo-w.svg": "/spawoz/static/media/sp-logo-w.860592d9251be2e09184b51532e0646f.svg",
+    "static/media/homeabout2.jpg": "/spawoz/static/media/homeabout2.225abb9c6924a44c1c1d.jpg",
+    "static/media/homeabout.jpg": "/spawoz/static/media/homeabout.4c1789f74bc642531ece.jpg",
+    "static/media/service4.jpg": "/spawoz/static/media/service4.5a3c6fe4f449d2bc8e65.jpg",
+    "static/media/service3.jpg": "/spawoz/static/media/service3.ae3624f3938ba57ce1b0.jpg",
+    "static/media/service1.jpg": "/spawoz/static/media/service1.65e7804a2832c03608e4.jpg",
+    "static/media/service2.jpg": "/spawoz/static/media/service2.9c1fa925b4a076ad5fee.jpg",
+    "static/media/logo.png": "/spawoz/static/media/logo.e1865a68db22a684a566.png",
+    "static/media/homeabout3.jpg": "/spawoz/static/media/homeabout3.5be768d44f093678a27e.jpg",
+    "index.html": "/spawoz/index.html",
+    "main.56b042f3.css.map": "/spawoz/static/css/main.56b042f3.css.map",
+    "main.3614a3bd.js.map": "/spawoz/static/js/main.3614a3bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b042f3.css",
+    "static/js/main.3614a3bd.js"
+  ]
+}
