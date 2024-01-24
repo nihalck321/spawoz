@@ -1,0 +1,14 @@
+.main_button{
+    background-color: transparent !important;
+    border-color: red !important;
+    color: red !important;
+    width: 180px !important;
+    height: 50px !important;
+    border-radius: 4px !important;
+}
+.main_button:hover{
+    background-color: red !important;
+    border-color: red;
+    color: #ffff !important;
+    transition: all 200ms linear;
+}
